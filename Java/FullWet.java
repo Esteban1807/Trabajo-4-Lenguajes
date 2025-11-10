@@ -1,4 +1,4 @@
-//Esta clase es para las llantas blandas
+//Esta clase es para las llantas humedas
 public class FullWet extends Tyres{
     //Definimos los valores con este construcctor
     public FullWet(String A, String B, String C, String D, int lapsMax, boolean isWet, String tyreColor){
