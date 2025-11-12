@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5 por tema\\C#\\5 por tema.csproj": {}
+    "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5Por-tema-4-Lenguajes\\C#\\5 por tema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5 por tema\\C#\\5 por tema.csproj": {
+    "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5Por-tema-4-Lenguajes\\C#\\5 por tema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5 por tema\\C#\\5 por tema.csproj",
+        "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5Por-tema-4-Lenguajes\\C#\\5 por tema.csproj",
         "projectName": "5 por tema",
-        "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5 por tema\\C#\\5 por tema.csproj",
+        "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5Por-tema-4-Lenguajes\\C#\\5 por tema.csproj",
         "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5 por tema\\C#\\obj\\",
+        "outputPath": "C:\\Users\\juani\\OneDrive\\Documentos\\Corredor\\Poo\\5Por-tema-4-Lenguajes\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juani\\AppData\\Roaming\\NuGet\\NuGet.Config"

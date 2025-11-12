@@ -12,8 +12,7 @@ export default class Intermedium extends Tyres {
     if (laps > this.durabilityMax) {
       this.Pits();
       return (
-        `the tyres have been on track ${laps} laps\n` +
-        `The Intermediums are being changed`
+        `the tyres have been on track ${laps} laps\nThe Intermediums are being changed`
       );
     }
     return `the tyres have been on track ${laps} laps\nCan continue`;

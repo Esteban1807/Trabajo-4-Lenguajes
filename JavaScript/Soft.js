@@ -12,8 +12,7 @@ export default class Soft extends Tyres {
     if (laps > this.durabilityMax) {
       this.Pits();
       return (
-        `the tyres have been on track ${laps} laps\n` +
-        `The Softs are being changed`
+        `the tyres have been on track ${laps} laps\nThe Softs are being changed`
       );
     }
     return `the tyres have been on track ${laps} laps\nCan continue`;

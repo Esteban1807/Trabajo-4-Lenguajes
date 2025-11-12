@@ -12,8 +12,7 @@ export default class FullWet extends Tyres {
     if (laps > this.durabilityMax) {
       this.Pits();
       return (
-        `the tyres have been on track ${laps} laps\n` +
-        `The Full Wets are being changed`
+        `the tyres have been on track ${laps} laps\nThe Full Wets are being changed`
       );
     }
     return `the tyres have been on track ${laps} laps\nCan continue`;
